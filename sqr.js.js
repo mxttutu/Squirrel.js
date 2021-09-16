@@ -1,0 +1,1310 @@
+/*Copyright 2021 maoxiaotu mxttutu.inc for this little js
+import test from 'com.packages.sqrjs.mxttutuinc.maoxiaotu.js';
+import fn from './';
+
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+	await fn('clipboard set "hey everybody"');
+test('clipboard', async t => {
+});
+
+test('js', async t => {
+	await fn('js');
+});
+
+test('js', t => {
+	t.plan(1);
+
+	const cp = fn.spawn('js');
+
+	cp.on('exit', function (code) {
+		t.true(code === 0);
+	});
+});
